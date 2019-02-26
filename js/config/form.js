@@ -21,7 +21,11 @@ const formConfig = {
           uiSchema: {},
           schema: {
             type: 'object',
-            properties: {}
+            properties: {
+              street: {
+                type: 'string'
+              }
+            }
           }
         },
         secondPage: {
