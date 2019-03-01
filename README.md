@@ -1,4 +1,4 @@
-# US Forms System Starter App
+# Form App
 Starter app using [US Forms System](https://github.com/usds/us-forms-system/).
 
 ***THIS IS A WORK IN PROGRESS.***
