@@ -24,7 +24,18 @@ const formConfig = {
             properties: {
               street: {
                 type: 'string'
+              },
+              city: {
+                type: 'string'
               }
+            }
+          },
+          uiSchema: {
+            street: {
+              'ui:title': 'Street'
+            },
+            city: {
+              'ui:title': 'City'
             }
           }
         },

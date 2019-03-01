@@ -18,13 +18,18 @@ class Introduction extends React.Component {
   render() {
     return (
       <div className="schemaform-intro">
-        <FormTitle title="Create test form with U.S. Forms System"/>
-        <p>Scaffolding to get any form started!</p>
+        <FormTitle title="Form App" />
+        <p>Welcome to form app</p>
         <ProgressButton
           onButtonClick={this.startForm}
-          buttonText="Start Form"
+          buttonText="I'm a parent"
           buttonClass="usa-button-primary schemaform-start-button"
-          afterText="»"/>
+          afterText="»" />
+        <ProgressButton
+          onButtonClick={this.startForm}
+          buttonText="I'm a student"
+          buttonClass="usa-button-primary schemaform-start-button"
+          afterText="»" />
       </div>
     );
   }
