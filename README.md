@@ -1,5 +1,5 @@
 # Form App
-This app was built usinga  [US Forms System](https://github.com/usds/us-forms-system/) scaffold.
+This app was built using the [US Forms System](https://github.com/usds/us-forms-system/) starter app.
 
 ***THIS IS A WORK IN PROGRESS.***
 
